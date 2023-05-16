@@ -6,7 +6,7 @@ O objetivo principal deste projeto é aprender a manipular o local storage do na
 | -------------  | --- |
 | :sparkles: Nome        | **Mochila de viagem**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://mochila-de-viagem-12s2chlqj-leoceretta.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://github.com/LeoCeretta/mochila-de-viagem/assets/74743013/b5a4a7db-b95e-4ddd-8e54-a71b0aaadb0a#vitrinedev)
